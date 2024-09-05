@@ -5,4 +5,10 @@
 ```
 https://github.com/Nurkurtoglu/kodluyoruzilkrepo.git
 ```
+# Usage 
+Projeyi klonladıktan sonra Visiual Studio Code programından açınız.
+##Linux için
+```
+cd kodluyoruzilkrepo code .
+```
 
