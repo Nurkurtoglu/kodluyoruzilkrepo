@@ -3,6 +3,6 @@
 #Installation 
 Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelecek)
 '''
-
+https://github.com/Nurkurtoglu/kodluyoruzilkrepo.git
 '''
 
